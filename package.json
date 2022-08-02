@@ -1,0 +1,19 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "A test lib",
+  "main": "\t\t",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulohdef/my-package.git"
+  },
+  "author": "Paulo de Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulohdef/my-package/issues"
+  },
+  "homepage": "https://github.com/paulohdef/my-package#readme"
+}
